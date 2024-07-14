@@ -1,7 +1,8 @@
 # RECAP
 
 This is the project that implements personal specific text generation project.
-It aims to train the model to be fitted under each person's characteristic.
+It uses the gpt model as a basis and fine-tuning them to achieve the goal.
+Happy using this proj.
 # Installation
 
 Commends for enviroment setup with conda.
