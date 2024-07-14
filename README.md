@@ -2,7 +2,7 @@
 
 This is the project that implements personal specific text generation project.
 It uses the gpt model as a basis and fine-tuning them to achieve the goal.
-Happy using this proj.
+Enjoy using this proj.
 # Installation
 
 Commends for enviroment setup with conda.
